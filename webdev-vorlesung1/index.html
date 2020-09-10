@@ -4,12 +4,15 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Milenas Testseite</title>
-  </head>
-  <body>
-    <h1>Test</h1>
-    <h2> Hallo, ich heiße Milena </h2>
-    <p>Mein erster Paragraph <br/> 
-    Das macht Spaß!
+    <style>
+    h1 {color:red} 
+    </style>  
+    </head>
+  <body style="background-color: darkseagreen;">
+    <h1> Test </h1>
+    <h2 style="color:violet"> Hallo, ich heiße Milena </h2>
+    <p style="color:blue">Mein erster Paragraph <br/> 
+      Das macht Spaß!    
     </p>
     <hr />
     <li><b>Fettgedruckt</b></li>
@@ -41,5 +44,23 @@
     <button type="submit">Submit Button</button>
     <button type="button">Button</button>
     <button type="reset">Reset Button</button>
+
+<form method="POST" action="/send.php">
+<label>Benutzername</label>
+<input type="text" name="username"><br>
+
+<label>Passwort</label>
+<input type="password" name="password"><br>
+
+</form>
   </body>
+
+  <aside>
+    <p> Schnellzugriffe usw. 
+      <br>
+      Alles was wichtig ist
+      <br>
+      Mal sehen, ob es klappt
+    </p>
+  </aside>
 </html>
