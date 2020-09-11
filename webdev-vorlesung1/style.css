@@ -2,6 +2,7 @@ h1 {color:red}
 
 body {
     background-color: aquamarine;
+    margin: 32 px;
 }
 
 p { border: 1 px solid rgb(76, 198, 247);
