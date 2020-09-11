@@ -2,10 +2,10 @@ h1 {color:red}
 
 body {
     background-color: aquamarine;
-    margin: 32 px;
+    margin: 32 px; padding: 24 px;
 }
 
 p { border: 1 px solid rgb(76, 198, 247);
-    color:blue;
+    color:blue; background-color: dimgray;
     padding: 24 px; margin: 24px;
 }
