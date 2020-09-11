@@ -8,6 +8,8 @@ h3 {color:deeppink}
 body {
     background-color: aquamarine;
     margin: 32 px; padding: 24 px;
+    line-height: 1.5;
+    max-width: 60;
 }
 
 p { border: 1 px solid rgb(76, 198, 247);
