@@ -4,6 +4,6 @@ body {
     background-color: aquamarine;
 }
 
-p { border: 1 px solid honeydew
-    padding= 24 px; margin: 24px;
+p { border: 1 px solid rgb(76, 198, 247);
+    padding: 24 px; margin: 24px;
 }
