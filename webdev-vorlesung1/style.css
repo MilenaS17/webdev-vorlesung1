@@ -3,3 +3,7 @@ h1 {color:red}
 body {
     background-color: aquamarine;
 }
+
+p { border: 1 px solid honeydew
+    padding= 24 px; margin: 24px;
+}
